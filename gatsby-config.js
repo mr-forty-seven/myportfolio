@@ -15,23 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
-    about: # Heading level 1`Hello! I'm Deepak, I work as an IT Support Engineer at MCG Computer in South Melbourne. This site is an extension of my resume and LinkedIn profile for myself to share more information about my interests and hobby projects I'm working on.
-
-I'm currently working on self hosted home sever project with various opensource applications that i use everyday and not rely on big companies with my data.
-
-My aim is to take control of my privacy, security and data by using as many open sources software as i can and selfhosting them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up homelab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with virtualization and using containers.
-
-I will be linking all the projects below to blog post with detailed setup later on.
-
-Current projects :
-
-- This website.
-- Setting up CalDev, CardDev for my Calender and Contacts.
-- Selfhost encrypted notes taking app for building my KB.
-- Encrypted data backup solution.
-- Private email setup.
-- Daily driving Ubuntu.
-- test`,
+    about: 'Test',
+    'test 2',
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
