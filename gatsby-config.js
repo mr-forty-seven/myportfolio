@@ -16,8 +16,6 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
     about: 'test',
-    about: 'test',
-    about: 'test',
 
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -26,49 +24,14 @@ module.exports = {
         description:
           'Currently working on projects listed below',
           description:
-            'test',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+            'Coming soon',
+        link: '',
       },
       {
         name: 'Planned',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-    ],
-    // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    experience: [
-      {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-    ],
-    // Optional: List your skills, they must have `name` and `description`.
-    skills: [
-      {
-        name: 'Languages & Frameworks',
-        description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
-      },
-      {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Coming soon',
+        link: '',
       },
     ],
   },
