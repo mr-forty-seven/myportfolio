@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://mr47.me/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Deepak Thamatam aka "Mr.47"',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Deepak Thamatam | IT Support Engineer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Computer Savvy, Power user, Superuser, Ethical Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
