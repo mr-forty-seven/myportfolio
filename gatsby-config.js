@@ -16,7 +16,7 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
     about: 'Test',
-    'test 2',
+    'test 2asdf',
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
