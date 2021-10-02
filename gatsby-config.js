@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
-    about: '<h1>Test</h1>',
+    about: '',
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -116,12 +116,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
     `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: `ADD YOUR TRACKING ID HERE`, // Optional Google Analytics
-      },
-    },
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
