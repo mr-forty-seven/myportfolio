@@ -30,7 +30,8 @@ Current projects :
 - Selfhost encrypted notes taking app for building my KB.
 - Encrypted data backup solution.
 - Private email setup.
-- Daily driving Ubuntu.`,
+- Daily driving Ubuntu.
+- test`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
