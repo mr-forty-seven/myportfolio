@@ -15,13 +15,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
-    about: <br>`Hello! I'm Deepak, I work as an IT Support Engineer at MCG Computer in South Melbourne. This site is an extension of my resume and LinkedIn profile for myself to share more information about my interests and hobby projects I'm working on.
+    about: # Heading level 1`Hello! I'm Deepak, I work as an IT Support Engineer at MCG Computer in South Melbourne. This site is an extension of my resume and LinkedIn profile for myself to share more information about my interests and hobby projects I'm working on.
 
-</br><br>I'm currently working on self hosted home sever project with various opensource applications that i use everyday and not rely on big companies with my data.
+I'm currently working on self hosted home sever project with various opensource applications that i use everyday and not rely on big companies with my data.
 
-</br><br>My aim is to take control of my privacy, security and data by using as many open sources software as i can and selfhosting them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up homelab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with virtualization and using containers.
+My aim is to take control of my privacy, security and data by using as many open sources software as i can and selfhosting them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up homelab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with virtualization and using containers.
 
-I will be linking all the projects below to blog post with detailed setup later on.</br>
+I will be linking all the projects below to blog post with detailed setup later on.
 
 Current projects :
 
