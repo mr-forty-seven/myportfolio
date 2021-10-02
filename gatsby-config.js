@@ -15,14 +15,12 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
-    about: 'test',
+    about: 'test'  , 'test2' ,
 
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'In Progress',
-        description:
-          'Currently working on projects listed below',
           description:
             'Coming soon',
         link: '',
