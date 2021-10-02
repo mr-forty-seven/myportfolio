@@ -15,7 +15,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/thamatamdeepak/`,
     // Content of the About Me section
-    about: '',
+    about: 'test',
+    {
+      name: 'test',
+      description:
+        'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+      link: 'https://github.com/RyanFitzgerald/devfolio',
+    },
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -116,7 +122,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
     `gatsby-plugin-feed`,
-    
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
